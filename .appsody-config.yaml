@@ -1,0 +1,2 @@
+project-name: eclipsemicroprofile
+stack: kabanero/java-microprofile:0.2
